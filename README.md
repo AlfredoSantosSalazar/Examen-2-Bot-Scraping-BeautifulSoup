@@ -37,4 +37,12 @@ Step 4: Download and install Geckodriver
 
 ![Captura de pantalla (261)](https://user-images.githubusercontent.com/70605764/165016948-efc67bcc-7b30-458e-af8d-a47b4994bafc.png)
 
+Database storage Robo 3T
+
+![Captura de pantalla (263)](https://user-images.githubusercontent.com/70605764/165017139-9cfc91f3-7076-46d2-ad5f-6ca8535d5299.png)
+
+Database storage MongoDB
+
+![Captura de pantalla (262)](https://user-images.githubusercontent.com/70605764/165017156-b2faaa3d-eec7-49b2-86a7-7ce63d28d8c1.png)
+
 
