@@ -2,7 +2,8 @@
 
 ### Delivery of Exam 2 on the creation of a Scraping Bot with the BeautifulSoup library that downloads the information of the candidatos al Senado por el partido Alianza Verde
 
-Team Members
+## Team Members
+
 ### Martin Encarnacion Hernandez
 ### Candido Baltazar Mnedez
 ### Alfredo Santos Salazar 
