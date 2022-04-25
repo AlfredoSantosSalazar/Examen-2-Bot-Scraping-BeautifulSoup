@@ -8,9 +8,9 @@
 ### Candido Baltazar Mnedez
 ### Alfredo Santos Salazar 
 
-#### Workshop delivery video tutorial https://youtu.be/obaBhur2mLI
+#### Workshop delivery video tutorial https://youtu.be/0TPLyC9rtcw
 
-[![Alt text](https://img.youtube.com/vi/obaBhur2mLI/0.jpg)](https://youtu.be/obaBhur2mLI)
+[![Alt text](https://img.youtube.com/vi/0TPLyC9rtcw/0.jpg)](https://youtu.be/0TPLyC9rtcw)
 
 Step 1: Download and install Anaconda
 
